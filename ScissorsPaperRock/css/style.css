@@ -1,0 +1,70 @@
+body {
+    font-family: 'Staatliches', cursive;
+    color: wheat;
+    background-color: rgb(51, 0, 0);
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.container{
+    border-style: solid;
+    border-color: rgb(175, 71, 57);
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.score-board {
+    margin: 10px auto;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: antiquewhite;
+    }
+
+#player-label{
+    position: absolute;
+    left: 520px;
+    font-size: 28px;
+}
+
+#computer-label{
+    position: absolute;
+    right: 480px;
+    font-size: 28px;
+}
+.result{
+    text-align-last: center;
+}
+
+.choices{
+    margin: 60px 0;
+    text-align: center;
+}
+.choice {
+    display: inline-block;
+    border: 6px solid white;
+    border-radius: 50%;
+    background-color: tomato;
+    margin: 0 25px;
+    -moz-transform: scale(1.125);
+    -webkit-transform: scale(1.125);
+    -ms-transform: scale(1.125);
+    transform: scale(1.125);
+    -moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out;
+    -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
+    -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
+    /* transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out; */
+    background-position: center;
+    z-index: 1;
+}
+.choice:hover {
+    transform: scale(1);
+    transition: all 0.3s ease ;
+    
+}
+.result{
+    font-size: 28px;
+}
