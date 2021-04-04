@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(10, 11, 16);
+}
+
+#rame{
+    border: 5px solid whitesmoke;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 850px;
+    height: 550px;
+    transform: translate(-50%, -50%);
+    filter: blur(1.5px) contrast(3)
+}
