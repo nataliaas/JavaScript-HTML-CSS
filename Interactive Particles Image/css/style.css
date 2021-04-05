@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to bottom right, rgb(231, 127, 127), rgb(130, 184, 201)); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+
+
+#rame{
+    background-image: transparent;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+
+}
