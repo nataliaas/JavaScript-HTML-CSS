@@ -18,3 +18,5 @@
                                       Examples of particles effects using JavaScript, HTML and CSS
 >
 ![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/PixelsFlowEffect-Google-Chrome-2021-04-25-11-25-54_2.gif) 
+
+![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/PixelsFun-Google-Chrome-2021-04-25-11-26-45.gif) 
