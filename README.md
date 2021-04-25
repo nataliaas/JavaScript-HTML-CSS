@@ -4,7 +4,7 @@
 
 ** In this folder I present in my opinion the best work I have been able to do so far;</br>
 
-** Simple games and particles effects using JavaScript, HTML and CSS, going with tutorials with "Franks laboratory" and "whatsdev" on youtube;
+** Simple games and particles effects using JavaScript, HTML and CSS, going with tutorials with "Franks laboratory" and "whatsdev"    on youtube;
 
 >
                                                           _ _     _ _
