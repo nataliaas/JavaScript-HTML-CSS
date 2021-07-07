@@ -26,7 +26,7 @@
                              :|                                                                            |:
                              :|                                                                            |:
                              \ /                                                                          \ /
-                                                       and **invaders** super game !!
+                                                     ... and **invaders** super game !!
 
 
 
