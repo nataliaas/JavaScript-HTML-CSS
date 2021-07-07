@@ -23,10 +23,10 @@
 
 ;-)
   
-                          :|                                                                            |:
-                          :|                                                                            |:
-                          \ /                                                                          \ /
-                                                    and **invadors** super game !!
+                             :|                                                                            |:
+                             :|                                                                            |:
+                             \ /                                                                          \ /
+                                                       and **invaders** super game !!
 
 
 
