@@ -21,7 +21,7 @@
 
 ![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/PixelsFun-Google-Chrome-2021-04-25-11-26-45.gif) 
 
-;-)<hr>
+;-)
   
                           :|                                                                            |:
                           :|                                                                            |:
