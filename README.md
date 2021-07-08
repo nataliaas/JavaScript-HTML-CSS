@@ -21,12 +21,16 @@
 
 ![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/PixelsFun-Google-Chrome-2021-04-25-11-26-45.gif) 
 
+![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/AnimatedBackground.gif) 
+
+![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/BackgroundAnimated2.gif) 
+
 ;-)
   
-                             :|                                                                            |:
-                             :|                                                                            |:
-                             \ /                                                                          \ /
-                                                     ... and **invaders** super game !!
+                            :|                                                                            |:
+                            :|                                                                            |:
+                            \ /                                                                          \ /
+                                                    ... and **invaders** super game !!
 
 
 
