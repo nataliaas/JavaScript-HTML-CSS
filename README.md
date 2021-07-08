@@ -26,7 +26,7 @@
 ![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/AnimatedBackground.gif) 
 
 ![image]( https://github.com/nataliaas/JavaScript-HTML-CSS/blob/main/BackgroundAnimated2.gif) 
-
+><
 ;-)
   
                             :|                                                                            |:
